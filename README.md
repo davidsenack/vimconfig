@@ -7,6 +7,6 @@ To install:
 
 ```bash
 git clone https://github.com/davidsenack/vimconfig.git 
-//&& cp vimconfig/.vimrc ~/.vimrc 
-//&& rm -rf vimconfig
+cp vimconfig/.vimrc ~/.vimrc 
+rm -rf vimconfig
 ```
