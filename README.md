@@ -6,6 +6,7 @@ Maybe I'll add some more dot files at some point. Who knows?
 To install:
 
 ```bash
-git clone https://github.com/davidsenack/vimconfig.git && cp vimconfig/.vimrc
-                //~/.vimrc && rm -rf vimconfig
+git clone https://github.com/davidsenack/vimconfig.git 
+//&& cp vimconfig/.vimrc ~/.vimrc 
+//&& rm -rf vimconfig
 ```
